@@ -46,6 +46,7 @@
             </div>       
           <button type="button" @click="addNewStep">Add a step</button>
           </div>
+          
           <button type="submit">Add Recipe</button>
           <button type="submit" @click="togglePopup">Close</button>
 
